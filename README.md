@@ -7,3 +7,9 @@ share doc for the report: <https://entuedu-my.sharepoint.com/:w:/r/personal/ktan
 dataset: <https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset/code?datasetId=483&sortBy=voteCount>
 
 guide: <https://www.kaggle.com/code/andreshg/nlp-glove-bert-tf-idf-lstm-explained>
+
+## Group Members' Info
+
+- Tang Kaiyuan G2304420G
+- ...
+
