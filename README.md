@@ -11,5 +11,5 @@ guide: <https://www.kaggle.com/code/andreshg/nlp-glove-bert-tf-idf-lstm-explaine
 ## Group Members' Info
 
 - Tang Kaiyuan G2304420G
-- ...
+- Tang Dengcheng G2304480F
 
