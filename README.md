@@ -12,4 +12,5 @@ guide: <https://www.kaggle.com/code/andreshg/nlp-glove-bert-tf-idf-lstm-explaine
 
 - Tang Kaiyuan G2304420G
 - Tang Dengcheng G2304480F
+- Chen Yunyi G2203055A
 
